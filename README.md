@@ -1,5 +1,5 @@
 # Quizzler
-Quiz game including a Progress indicator & End game score review.
+Quiz game including a Progress-indicator & End-game score review.
 
 # What I Learned
 * Interact with outer packages on Dart & Flutter.
